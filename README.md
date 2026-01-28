@@ -1,13 +1,20 @@
-# raspadinhasdoacai# Raspadinhas do Açaí 🍧
+# Raspadinhas do Açaí 🍧
 
-Projeto para gerenciamento/divulgação de raspadinhas promocionais.
+Projeto criado para gerenciar e divulgar raspadinhas promocionais de açaí.
 
-## Funcionalidades
-- Cadastro de raspadinhas
+## 📌 Objetivo
+Oferecer uma experiência divertida para clientes, com prêmios e promoções através de raspadinhas digitais.
+
+## 🚀 Funcionalidades
+- Raspadinhas digitais
 - Controle de prêmios
-- Interface simples e rápida
+- Promoções por campanha
+- Interface simples e intuitiva
 
-## Tecnologias
+## 🛠️ Tecnologias
 - HTML
 - CSS
 - JavaScript
+
+## 📂 Status do Projeto
+🟡 Em desenvolvimento

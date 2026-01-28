@@ -122,7 +122,7 @@
     });
 
     document.getElementById("btnWhatsapp").onclick = () => {
-      const numeroLoja = "5599999999999"; // ALTERE PARA O WHATSAPP DA LOJA
+      const numeroLoja = "5544999921430"; // ALTERE PARA O WHATSAPP DA LOJA
       const msg = `🍧 Raspadinha do Açaí!\nMeu prêmio foi: *${premioSorteado}* 🎉\nPosso resgatar?`;
       window.open(`https://wa.me/${numeroLoja}?text=${encodeURIComponent(msg)}`);
     };

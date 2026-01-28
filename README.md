@@ -17,4 +17,4 @@ Oferecer uma experiência divertida para clientes, com prêmios e promoções at
 - JavaScript
 
 ## 📂 Status do Projeto
-🟡 Em desenvolvimento
+🟡 Em desenvolvimento 
